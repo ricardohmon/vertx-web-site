@@ -66,7 +66,7 @@
 
     <github.global.server>github</github.global.server>
 
-    <highlightjs.version>8.7</highlightjs.version>
+    <highlightjs.version>9.2.0</highlightjs.version>
 
     <host>vertx.io</host>
   </properties>
